@@ -1,0 +1,42 @@
+//This means there is a block right in front.
+if (info.indexOf("*") - info.indexOf(String.valueOf(0)) = 19
+
+//This means there is a block directly to the left.
+if (info.indexOf("*") - info.indexOf(String.valueOf(0)) = -6
+
+//This means there is a block 2 spaces in front
+if (info.indexOf("*") - info.indexOf(String.valueOf(0)) = 38
+
+//This means there is a corner trap Forward/left two spaces away
+if (info.indexOf("*") - info.indexOf(String.valueOf(0)) = 38
+if (info.indexOf("*") - info.indexOf(String.valueOf(0)) = 16
+
+//This means there is a corner trap forward/right right in front
+if (info.indexOf("*") - info.indexOf(String.valueOf(0)) = 22		//forward block
+if (info.indexOf("*") - info.indexOf(String.valueOf(0)) = 6       //right block
+
+//This means there is a corner trap forward/right two spaces away
+if (info.indexOf("*") - info.indexOf(String.valueOf(0)) = 22		//right block
+if (info.indexOf("*") - info.indexOf(String.valueOf(0)) = 38		//forward block
+
+//This means you just turned right 1 space before a f/r corner trap
+if (info.indexOf("*") - info.indexOf(String.valueOf(0)) = -9		//left block
+if (info.indexOf("*") - info.indexOf(String.valueOf(0)) = 16		//forward block
+
+// This means you just turned left 1 space before a f/l corner trap
+if (info.indexOf("*") - info.indexOf(String.valueOf(0)) = 9		//right block
+if (info.indexOf("*") - info.indexOf(String.valueOf(0)) = 25		//forward block
+
+//if there is a block right next to you and the food is the same direction, ignore nose and go forward.
+
+//Block to the right
+if (info.indexOf("*") - info.indexOf(String.valueOf(0)) = 6
+
+//Block to the left
+if (info.indexOf("*") - info.indexOf(String.valueOf(0)) = -6
+
+//Block behind
+if (info.indexOf("*") - info.indexOf(String.valueOf(0)) = -19
+
+//Block forward
+if (info.indexOf("*") - info.indexOf(String.valueOf(0)) = 19
