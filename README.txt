@@ -3,6 +3,11 @@ README — for MemoryAgent.java
 ACKNOWLEDGEMENTS
 Much of the socket and base code for sending commands is from Wayne Iba’s KeyboardController.java. 
 
+
+This is an agent for the Maeden environment. It will solve some of the basic puzzles.
+
+
+
 HOW TO RUN:
 OSX
 1. Go to the Applications folder. Inside that folder, open up the Utilities folder and Open Terminal.
